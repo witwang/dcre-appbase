@@ -1,0 +1,16 @@
+{
+    "name": "pm2",
+    "version": "1.0.0",
+    "description": "my desc",
+    "dependencies": {
+    },
+    "config": {
+        "days_interval": 7,
+        "max_size": 5242880
+    },
+    "apps": [
+
+    ],
+    "author": "witwang",
+    "license": "MIT"
+}
